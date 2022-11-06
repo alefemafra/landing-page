@@ -6,7 +6,7 @@
     "author": "Alefe",
     "devDependencies": {
         "del": "^2.0.2",
-        "gulp": "^3.9.0",
+        "gulp": "^4.0.2",
         "gulp-autoprefixer": "latest",
         "gulp-csso": "^2.0.0",
         "gulp-fontmin": "^0.7.4",
